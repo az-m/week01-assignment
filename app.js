@@ -1,5 +1,8 @@
 console.log("Hello World :)");
 
+// all this mouseover color change would be better done with css and hover styles, but it's here
+// because I wanted to add some js and I couldn't think of anything more exciting to do
+
 const box1 = document.getElementById("box1");
 
 box1.addEventListener("mouseover", function (event) {
