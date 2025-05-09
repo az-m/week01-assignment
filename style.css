@@ -103,6 +103,7 @@ nav a:hover {
 .contentSection {
   font-size: 2em;
   padding: 40px 10px 0px 10px;
+  scroll-margin-top: 170px; /* fix for jumplink scrolling with fixed header */
 }
 
 .contentSection p {

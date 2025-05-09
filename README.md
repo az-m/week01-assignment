@@ -22,7 +22,9 @@ Added back to top link in footer and hover effect on jump links.
 
 ## Frustrations
 
-The jump to section links don't really work properly because I can't make them respect the height of the fixed header. I've tried a few ways to make the targeted section NOT be flush with the top of the page, but nothing I tried worked. I'd be interested in a good solid workaround, which I'm happy to wait for if it's going to be covered later!
+~~The jump to section links don't really work properly because I can't make them respect the height of the fixed header. I've tried a few ways to make the targeted section NOT be flush with the top of the page, but nothing I tried worked. I'd be interested in a good solid workaround, which I'm happy to wait for if it's going to be covered later!~~
+
+Fixed with scroll-margin-top
 
 # references
 
